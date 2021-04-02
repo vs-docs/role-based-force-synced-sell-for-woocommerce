@@ -9,7 +9,13 @@
 <h2>Key Features</h2>
 
 <ul>
-  <li> <strong>Force Sell</strong> : <i>Normal force sell products will be added to the cart along with the main product, in the same quantity as selected for the main product. Added force sell products can be removed and the quantity of it can be changed in the cart by the customer.</i> </li>
+  <li> <strong>Force Sell</strong> : 
+    <ul>
+      <li><i>Normal force sell products will be added to the cart along with the main product, in the same quantity as selected for the main product. </i> </li>
+      <li><i>Added force sell products can be removed and the quantity of it can be changed in the cart by the customer.</i> </li>
+    </ul>
+    <br/>
+  </li> 
 
   <li> <strong>Foce Synced Sell</strong> : <i>Synced force sell products work in the very same way as normal force sells. The only difference is that customers can’t remove a synced force sell from the cart or change the quantity. In case the main product is removed, the synced force sell products will be removed too. Same goes for quantity. If the quantity of the main product is changed, the quantity for all synced force sell products will change too. </i></li>
 </ul>
