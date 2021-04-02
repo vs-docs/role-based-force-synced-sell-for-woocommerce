@@ -9,13 +9,16 @@
 <h2>Key Features</h2>
 
 <h4>Force Sell</h4>
-
-<ul> <li>Normal force sell products will be added to the cart along with the main product, in the same quantity as selected for the main product. Added force sell products can be removed and the quantity of it can be changed in the cart by the customer.</li> </ul>
+<ul>
+  <li> Normal force sell products will be added to the cart along with the main product, in the same quantity as selected for the main product. Added force sell products can be removed and the quantity of it can be changed in the cart by the customer. </li>
+</ul>
 
 
 <h4>Foce Synced Sell</h4>
 
-<ul> <li>Synced force sell products work in the very same way as normal force sells. The only difference is that customers can’t remove a synced force sell from the cart or change the quantity. In case the main product is removed, the synced force sell products will be removed too. Same goes for quantity. If the quantity of the main product is changed, the quantity for all synced force sell products will change too.</li> </ul>
+<ul>
+  <li> Synced force sell products work in the very same way as normal force sells. The only difference is that customers can’t remove a synced force sell from the cart or change the quantity. In case the main product is removed, the synced force sell products will be removed too. Same goes for quantity. If the quantity of the main product is changed, the quantity for all synced force sell products will change too. </li>
+</ul>
 
 <p>In the cart, synced force sells are shown as <code>linked</code></p>
 
@@ -26,4 +29,5 @@
 <h2>Need Support ?</h2>
 
 <p><a href="https://support.varunsridharan.in">Register</a> or <a href="https://support.varunsridharan.in">visit</a> support system. Have you any question, idea or advise ? Something is not clear ? Please fell free to contact us via <a href="https://support.varunsridharan.in">support</a> anytime. <br/><br/>
+<a href="https://support.varunsridharan.in"> <img src="https://envato.svarun.dev/profile/support.png" title="Open Support Ticket" alt="Open Support Ticket @ https://support.varunsridharan.in"/> </a>
 </p>
